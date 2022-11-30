@@ -1,4 +1,4 @@
-# FunTranslationApp Mark7
+# FunTranslationApp Mark 07
 ![pc-8](https://user-images.githubusercontent.com/112760422/204731544-d0405216-2f3e-4064-8789-fe1ff375b613.png)
 
 

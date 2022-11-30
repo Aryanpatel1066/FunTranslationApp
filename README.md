@@ -6,7 +6,7 @@ swedish chef is a fun translator app.
 # Features
 The translator conver normal English into swedish chef using fun-translator api
 
-#Built with
+# Built with
 HTML
 CSS
 JAVASCRIPT
